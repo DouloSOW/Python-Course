@@ -1,7 +1,7 @@
 # Python-Course
 
 
-C'est le descriptif 
+C'est le descriptif de mon projet
 
 +++
 
